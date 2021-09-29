@@ -15,7 +15,7 @@ div h1{
 }
 
 
-.poster{
+.keet{
     display: inline-block;
     margin: 20px;
     padding: 20px;
@@ -23,21 +23,23 @@ div h1{
     box-shadow: 10px 10px 20px black;
 }
 
-.posterimg{
+.keet_logo{
     width: 200px;
     height: 300px;
 }
 
-#poster1{
+#keet_logo1{
     background-color: blue;
 }
 
-#poster2{
+#keet_logo2{
     background-color: blue;
 }
 
-#poster3{
+#keet_logo3{
     background-color: blue;
 }
 
-// vvv
+#keet_logo4{
+    background-color: blue;
+}
