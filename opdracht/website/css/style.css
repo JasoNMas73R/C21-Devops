@@ -2,6 +2,14 @@ body{
     background-color: aquamarine;
 }
 
+/*Voor mezelf of diegene die dit nakijkt, ik heb de background code van https://www.w3schools.com/cssref/pr_background-repeat.asp.
+En nou heb ik het vervolgens weer gecopy-paste van mijn eigen werk op Zuidoost :P*/
+body {
+    background-color: tomato;
+    background-image: url("achtergrond.bmp");
+    background-repeat: repeat;
+}
+
 div h1{
     width: 200px;
 }
